@@ -1,1 +1,1 @@
-Aktuelle HighTemp Spulen Version sind die V200_Groß/klein datein 
+Aktuelle HighTemp Spulen Version sind die V200_ innter/Outer datein 
